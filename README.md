@@ -94,19 +94,16 @@ MedConnect/
    npm run dev
    ```
 
-## API Routes
-### User Routes (`/api/user`)
-- `POST /register` - Register a new user
-- `POST /login` - User login
-- `GET /profile` - Get user profile
 
-### Doctor Routes (`/api/doctor`)
-- `POST /register` - Register a doctor
-- `GET /:id` - Get doctor details
+## Screenshots
+### Home Page
+![Home Page](screenshot/Home-Page)
 
-### Appointment Routes (`/api/appointment`)
-- `POST /book` - Book an appointment
-- `GET /my-appointments` - Get user appointments
+### All Doctors
+![All Doctors](screenshot/All-Doctor)
+
+### Book Appointment
+![Book Appointment](screenshot/Book-Appointment)
 
 
 
